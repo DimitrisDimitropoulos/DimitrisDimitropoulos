@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![Till's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbung&show_icons=true&theme=radical)](https://github.com/DimitrisDimitropoulos)
+[![Till's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitrisDimitropoulos&show_icons=true&theme=radical)](https://github.com/DimitrisDimitropoulos)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbung&hide=jupyter%20notebook&theme=radical&layout=compact)](https://github.com/DimitrisDimitropoulos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrisDimitropoulos&hide=jupyter%20notebook&theme=radical&layout=compact)](https://github.com/DimitrisDimitropoulos)
 
 
 <!--
